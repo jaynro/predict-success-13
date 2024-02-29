@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "average_cost": 100,
+        "restaurant_type": "Tacos",
+        "location": "Polanco, CDMX",
+        "success": "4"
+    },
+    {
+        "id":2,
+        "average_cost": 220,
+        "restaurant_type": "Tamales",
+        "location": "Polanco, CDMX",
+        "success": "3"
+    },
+    {
+        "id":3,
+        "average_cost": 200,
+        "restaurant_type": "Fast Food",
+        "location": "Zapopan, Jalisco",
+        "success": "1"
+    },
+    {
+        "id":4,
+        "average_cost": 600,
+        "restaurant_type": "Italiano",
+        "location": "Polanco, CDMX",
+        "success": "3"
+    },
+    {
+        "id":5,
+        "average_cost": 100,
+        "restaurant_type": "Tacos",
+        "location": "Polanco, CDMX",
+        "success": "1"
+    }
+
+]
